@@ -1,0 +1,40 @@
+body {
+  font-family: "Open Sans", sans-serif; }
+  body h1, body h2, body h3 {
+    font-family: "Oleo Script", cursive; }
+  body header h2 {
+    color: #CEC8FF; }
+  body h2 {
+    color: #5637DD; }
+  body .site-footer {
+    background-image: linear-gradient(white, #CEC8FF);
+    padding: 20px 0; }
+  body .jumbotron {
+    margin: 0;
+    padding: 30px;
+    background-image: linear-gradient(to right, #5637DD, #3046C5, #60106B);
+    color: white; }
+  body .row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px; }
+  body .navbar {
+    background-color: #901CAD; }
+  body .carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 2em; }
+  body .carousel {
+    border: solid #5637DD; }
+  body #carouselButton {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: 100; }
+
+#reserveModal .modal-header {
+  background-color: #17A2B8;
+  color: white; }
+
+#loginModal .modal-header {
+  background-color: #901CAD;
+  color: white; }
